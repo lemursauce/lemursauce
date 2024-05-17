@@ -1,5 +1,5 @@
 # About Me:
-I am currently a Graduating Senior CSCE student at Texas A&M University.
+I am a recent CSCE graduate at Texas A&M University.
 
 As an aspiring programmer, I am always trying to push myself further, always looking for opportunities to learn and apply new skills.
 

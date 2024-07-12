@@ -1,7 +1,7 @@
 # About Me:
-I am a recent CSCE graduate at Texas A&M University.
+I am a committed, self-driven, recent graduate from Texas A&M University with a Bachelor of Science in Computer Science and a minor in Mathematics.
 
-As an aspiring programmer, I am always trying to push myself further, always looking for opportunities to learn and apply new skills.
+I am seeking employment opportunities that will expand my skills, both technical and professional, with a particular interest in positions that involve software design, algorithm development, cryptography, machine learning, and/or data analysis. My aspiration is to apply my skills and tenacious problem solving approach to various programming challenges, in whatever form they may take.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/logan-a-carbo/) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/lacarbo/)

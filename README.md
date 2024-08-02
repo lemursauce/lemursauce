@@ -1,10 +1,10 @@
 # About Me:
 I am a committed, self-driven, recent graduate from Texas A&M University with a Bachelor of Science in Computer Science and a minor in Mathematics.
 
-I am seeking employment opportunities that will expand my skills, both technical and professional, with a particular interest in positions that involve software design, algorithm development, cryptography, machine learning, and/or data analysis. My aspiration is to apply my skills and tenacious problem solving approach to various programming challenges, in whatever form they may take.
+I am seeking employment opportunities that will expand my skills, both technical and professional, with a particular interest in any and all positions that involve some degree of frontend/backend development, systems design, algorithm development, cryptography, machine learning, computer graphics, and/or data analysis. My aspiration is to apply my skills and tenacious problem solving approach to various programming challenges, in whatever form they may take.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/logan-a-carbo/) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/lacarbo/)
+[![GitHub](https://img.shields.io/badge/TAMU_GitHub-181717.svg?logo=github&logoColor=white)](https://github.com/lacarbo05) [![Discord](https://img.shields.io/badge/Discord-5865F2.svg?logo=discord&logoColor=white)](https://discordapp.com/users/657334339591471114) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/logan-a-carbo/) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/lacarbo/) [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=gmail&logoColor=white)](mailto:lacarbo05@gmail.com)
 
 # 💻 Tech Stack:
 ### Programming Languages
